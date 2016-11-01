@@ -1,0 +1,2 @@
+var SensorTag = require('sensortag');
+
